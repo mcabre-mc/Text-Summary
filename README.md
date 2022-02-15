@@ -6,12 +6,15 @@ The code generates an automatic summary of the text file.
 3. numpy
 4. networkx
 5. scipy
+  
 ##How to execute the code: 
 Use the TextSummary.ipynb to visualize step by step. Use an input txt file and run the code. 
 Use the py files to and give input file name and run the code. 
+  
 ##Inupt: 
  1. Input file name
  2. Topics to choose
+   
 ##Sample Output:
 Cryptocurrency is a digital payment system that doesn't rely on banks to verify transactions
 It’s a peer-to-peer system that can enable anyone anywhere to send and receive payments
