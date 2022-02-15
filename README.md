@@ -1,21 +1,22 @@
 # Automatic Text Summary
 The code generates an automatic summary of the text file. 
-##Required Libraries:
+  
+## Required Libraries:
 1. nltk.corpus - stopwords
 2. nltk.cluster.util - cosine_distance
 3. numpy
 4. networkx
 5. scipy
   
-##How to execute the code: 
+## How to execute the code: 
 Use the TextSummary.ipynb to visualize step by step. Use an input txt file and run the code. 
 Use the py files to and give input file name and run the code. 
   
-##Inupt: 
+## Inupt: 
  1. Input file name
  2. Topics to choose
    
-##Sample Output:
+## Sample Output:
 Cryptocurrency is a digital payment system that doesn't rely on banks to verify transactions
 It’s a peer-to-peer system that can enable anyone anywhere to send and receive payments
 Instead of being physical money carried around and exchanged in the real world, cryptocurrency payments exist purely as digital entries to an online database describing specific transactions
